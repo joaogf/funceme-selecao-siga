@@ -1,4 +1,4 @@
-// Funceme-Library-App.cpp : Arquivo para obter os emails para enviar o curriculo.
+// Funceme-Library-App.cpp : Arquivo para obter os emails para enviar o currículo.
 //
 
 #include "stdafx.h"
@@ -8,11 +8,8 @@
 
 int main()
 {
-
 	Prova p {};
-
 	std::cout << p.getEmail();
-
-    return 0;
+	return 0;
 }
 
